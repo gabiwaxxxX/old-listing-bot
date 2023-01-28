@@ -1,0 +1,6 @@
+{
+    "address":"https://polygonscan.com/address/0x",
+    "token":"https://polygonscan.com/token/0x",
+    "code": "https://polygonscan.com/address/0x#code",
+    "txs" :"https://polygonscan.com/txs?a=0x"
+}

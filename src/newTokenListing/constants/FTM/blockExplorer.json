@@ -1,0 +1,6 @@
+{
+    "address":"http://ftmscan.com/address/0x",
+    "token":"http://ftmscan.com/token/0x",
+    "code": "http://ftmscan.com/address/0x#code",
+    "txs" :"http://ftmscan.com/txs?a=0x"
+}

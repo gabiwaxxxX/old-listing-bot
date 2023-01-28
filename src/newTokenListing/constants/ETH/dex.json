@@ -1,0 +1,17 @@
+{
+    "DEX": [
+        {
+            "name" : "uniswapV2",
+            "factory" : "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
+            "router" : "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+            "AMM" : "https://app.uniswap.org/#/swap?inputCurrency=0xinput&outputCurrency=0xoutput"
+        },
+        {
+            "name": "sushi",
+            "factory" : "0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac",
+            "router" : "0xd9e1ce17f2641f24ae83637ab66a2cca9c378b9f",
+            "AMM" : "https://app.sushi.com/swap?inputCurrency=0xinput&outputCurrency=0xoutput"
+        }
+
+    ]
+}

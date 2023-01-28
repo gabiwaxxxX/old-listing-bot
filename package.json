@@ -1,0 +1,41 @@
+{
+  "name": "listingtoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.ts",
+    "start:dev": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "axios": "^0.24.0",
+    "canoe-solidity": "^0.1.0",
+    "cheerio": "^1.0.0-rc.10",
+    "crypto-price": "^0.0.6",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.2",
+    "express": "^4.17.2",
+    "inquirer": "^8.2.0",
+    "jssoup": "^0.0.15",
+    "node-url-shortener": "^2.0.0",
+    "play-sound": "^1.1.5",
+    "pretty": "^2.0.0",
+    "python-shell": "^3.0.1",
+    "socket.io": "^4.4.1",
+    "terminal-link": "^3.0.0",
+    "text-to-link": "^1.0.1",
+    "web3": "^1.6.1",
+    "x-ray": "^2.3.4",
+    "xray": "^0.5.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.10",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.4.0"
+  }
+}

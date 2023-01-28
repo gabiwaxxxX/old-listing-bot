@@ -1,0 +1,46 @@
+{
+    "ARBITRUM":{
+        "RPC" : "wss://dry-aged-fire.fantom.quiknode.pro/7af22bf6a00dc835df81b02bd1549ffe37fd98f5/"},
+    "AVAX":{
+        "RPC" : "wss://speedy-nodes-nyc.moralis.io/4e1189a754ae4f5201f35f92/avalanche/mainnet/ws"
+    },
+    "BSC":{
+        "RPC" : "wss://speedy-nodes-nyc.moralis.io/4e1189a754ae4f5201f35f92/bsc/mainnet/ws"
+    },
+    "ETH":{
+        "RPC" : "wss://speedy-nodes-nyc.moralis.io/4e1189a754ae4f5201f35f92/eth/mainnet/ws"
+    },
+    "FTM":{
+        "RPC" : "wss://speedy-nodes-nyc.moralis.io/4e1189a754ae4f5201f35f92/fantom/mainnet/ws"
+    },
+    "MATIC":{
+        "RPC" : "wss://speedy-nodes-nyc.moralis.io/4e1189a754ae4f5201f35f92/polygon/mainnet/ws"
+    },
+    "KCC":{ 
+        "RPC" : "wss://rpc-ws-mainnet.kcc.network"
+    },
+
+    "CRONOS":{
+        "RPC" : "https://evm-cronos.crypto.org/"
+          },
+    "FUSE":{
+        "RPC" : "https://rpc.fuse.io"
+           },
+    "HARMONY":{
+        "RPC" : "https://harmony-0-rpc.gateway.pokt.network" 
+        
+    },
+    "IOTEX":{
+        "RPC" : "https://babel-api.mainnet.iotex.io"
+            },
+
+    "METIS":{
+        "RPC" :"https://andromeda.metis.io/?owner=1088" 
+           },
+    "MOONBEAM":{
+        "RPC" : "https://rpc.api.moonbeam.network"
+            },
+    "MOONRIVER":{
+        "RPC" : "https://rpc.moonriver.moonbeam.network"
+            }
+}

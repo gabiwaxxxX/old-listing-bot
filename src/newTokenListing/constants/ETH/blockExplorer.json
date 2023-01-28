@@ -1,0 +1,6 @@
+{
+    "address":"https://etherscan.io/address/0x",
+    "token":"https://etherscan.io/token/0x",
+    "code": "https://etherscan.io/address/0x#code",
+    "txs" :"https://etherscan.io/txs?a=0x"
+}

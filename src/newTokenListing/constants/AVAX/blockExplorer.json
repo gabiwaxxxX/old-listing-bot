@@ -1,0 +1,6 @@
+{
+    "address":"https://snowtrace.io/address/0x",
+    "token":"https://snowtrace.io/token/0x",
+    "code": "https://snowtrace.io/address/0x#code",
+    "txs" :"https://snowtrace.io/txs?a=0x"
+}

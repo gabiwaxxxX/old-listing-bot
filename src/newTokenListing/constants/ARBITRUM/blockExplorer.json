@@ -1,0 +1,6 @@
+{
+    "address":"https://arbiscan.io/address/0x",
+    "token":"https://arbiscan.io/token/0x",
+    "code": "https://arbiscan.io/address/0x#code",
+    "txs" :"https://arbiscan.io/txs?a=0x"
+}

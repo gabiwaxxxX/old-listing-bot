@@ -1,0 +1,6 @@
+{
+    "address":"https://bscscan.com/address/0x",
+    "token":"https://bscscan.com/token/0x",
+    "code": "https://bscscan.com/address/0x#code",
+    "txs" :"https://bscscan.com/txs?a=0x"
+}
